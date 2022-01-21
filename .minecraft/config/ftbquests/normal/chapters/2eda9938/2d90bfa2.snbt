@@ -108,5 +108,15 @@
 		items: [{
 			item: "modularmachinery:blockfluidoutputhatch"
 		}]
+	}],
+	rewards: [{
+		uid: "01681902",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:basic_thermal_melting_machine"
+			}
+		}
 	}]
 }
